@@ -1,0 +1,52 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica8/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica8/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'practica8 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica8/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'practica8 1.0-SNAPSHOT API'
+com.mycompany.practica8
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica8/src/main/java/com/mycompany/practica8/Cuadrado.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica8/src/main/java/com/mycompany/practica8/CuadradoA.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica8/src/main/java/com/mycompany/practica8/Flauta.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica8/src/main/java/com/mycompany/practica8/InstrumentoMusical.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica8/src/main/java/com/mycompany/practica8/InstrumentoViento.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica8/src/main/java/com/mycompany/practica8/Main.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica8/src/main/java/com/mycompany/practica8/Meses.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica8/src/main/java/com/mycompany/practica8/PoligonoA.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica8/src/main/java/com/mycompany/practica8/PoligonoC.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica8/src/main/java/com/mycompany/practica8/PruebaMeses.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica8/src/main/java/com/mycompany/practica8/Triangulo.java'
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica8/src/main/java/com/mycompany/practica8/TrianguloA.java'
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica8\src\main\java = 1636031486333
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica8\target\site\apidocs\allclasses-frame.html = 1636439466288
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica8\target\site\apidocs\allclasses-noframe.html = 1636439466290
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica8\target\site\apidocs\constant-values.html = 1636439466095
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica8\target\site\apidocs\deprecated-list.html = 1636439466286
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica8\target\site\apidocs\help-doc.html = 1636439466296
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica8\target\site\apidocs\index-all.html = 1636439466280
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica8\target\site\apidocs\index.html = 1636439466292
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica8\target\site\apidocs\overview-tree.html = 1636439466267
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica8\target\site\apidocs\package-list = 1636439466037
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica8\target\site\apidocs\script.js = 1636439466299
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica8\target\site\apidocs\stylesheet.css = 1636439466298
